@@ -1,0 +1,11 @@
+{
+  "name": "CSV2React",
+  "version": "1.0.0",
+  "main": "generate.js",
+  "scripts": {
+    "start": "node generate.js"
+  },
+  "dependencies": {
+    "csv-parser": "^3.0.0"
+  }
+}
